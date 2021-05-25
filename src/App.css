@@ -2,3 +2,22 @@
   text-align: center;
 }
 
+#cardListBox {
+  display: inline-flex;
+  flex-wrap: wrap;
+  padding: 5px;
+  width:60%;
+}
+
+
+#cardListBox img {
+  
+  margin: 5px;
+  width: 200px;
+  height: 350px;
+}
+
+#Scoreboard {
+  position: absolute;
+  right: 1px;
+}
