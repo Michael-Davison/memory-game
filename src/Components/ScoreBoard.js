@@ -12,10 +12,10 @@ const ScoreBoard  = (props) => {
    
     return (
         <div id ="Scoreboard">
-     <h2>Current Score: {currentScore}</h2>
-     <h2>Best Score: {bestScore}</h2>
-     <h3>Goal: Click as many cards as </h3>
-     <h3>you can without clicking the same one twice!</h3>
+     <h4>Current Score: {currentScore}</h4>
+     <h4>Best Score: {bestScore}</h4>
+     
+     
      </div>
     );
  
