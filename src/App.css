@@ -1,6 +1,9 @@
 .App {
   text-align: center;
+  background-image: url(./Resources/topography.jpg);
+  color: white;
 }
+
 
 #cardListBox {
   display: inline-flex;
@@ -18,11 +21,13 @@
   height: 325px;
 }
 
-#Scoreboard {
+#scoreBoard{
   text-align: left;
   position: absolute;
   top: 1px;
   left: 1px;
  
 }
+
+
 
