@@ -1,7 +1,10 @@
+
+
 .App {
   text-align: center;
   background-image: url(./Resources/topography.jpg);
   color: white;
+  background-size:cover;
 }
 
 
