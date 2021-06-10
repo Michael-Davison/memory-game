@@ -2,6 +2,11 @@
   text-align: center;
   background-image: url(./Resources/topography.jpg);
   color: white;
+<<<<<<< Updated upstream
+=======
+  background-size:cover
+  
+>>>>>>> Stashed changes
 }
 
 
@@ -9,7 +14,7 @@
   display: inline-flex;
   flex-wrap: wrap;
   
-  width:60%;
+  width:50%;
   margin-left: 20px;
 }
 
